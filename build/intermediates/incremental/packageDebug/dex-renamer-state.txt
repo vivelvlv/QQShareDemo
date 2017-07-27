@@ -1,0 +1,7 @@
+#Tue Jun 13 15:00:05 CST 2017
+base.0=/Users/jom/work/android_sdk_proj/trunk/android_sdk/sample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ba5e3a4edc6c5dd820c3d3f85b46220e77e06e85
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/jom/work/android_sdk_proj/trunk/android_sdk/sample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cf884106e4c2d3275d47f5426f0d6251ad44bb85/classes.dex
+base.1=/Users/jom/work/android_sdk_proj/trunk/android_sdk/sample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cf884106e4c2d3275d47f5426f0d6251ad44bb85
+file.0=/Users/jom/work/android_sdk_proj/trunk/android_sdk/sample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ba5e3a4edc6c5dd820c3d3f85b46220e77e06e85/classes.dex

@@ -1,0 +1,4 @@
+#Wed Apr 12 16:44:04 CST 2017
+base.0=/Users/jom/work/android_sdk_proj/trunk/android_sdk/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+renamed.0=classes.dex
+file.0=/Users/jom/work/android_sdk_proj/trunk/android_sdk/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex
